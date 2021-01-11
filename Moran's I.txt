@@ -1,0 +1,77 @@
+Moran I test under randomisation
+
+data:  .  
+weights: Lward.queens_weight    
+
+Moran I statistic standard deviate = 22.088, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+     0.5106091371     -0.0016025641      0.0005377552 
+
+
+	Moran I test under randomisation
+
+data:  .  
+weights: Lward.knn_4_weight    
+
+Moran I statistic standard deviate = 19.5, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+     0.5219230563     -0.0016025641      0.0007207555 
+
+
+
+Moran I test under randomisation
+
+data:  .  
+weights: Lward.knn_8_weight    
+
+Moran I statistic standard deviate = 24.593, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+     0.4689676427     -0.0016025641      0.0003661302
+
+Moran I test under randomisation
+
+data:  .  
+weights: Lward.knn_5_weight    
+
+Moran I statistic standard deviate = 21.133, p-value < 2.2e-16
+alternative hypothesis: greater
+sample estimates:
+Moran I statistic       Expectation          Variance 
+     0.5080359375     -0.0016025641      0.0005815831 
+
+
+Geary C test under randomisation
+
+data:  . 
+weights: Lward.knn_5_weight 
+
+Geary C statistic standard deviate = 20.433, p-value < 2.2e-16
+alternative hypothesis: Expectation greater than statistic
+sample estimates:
+Geary C statistic       Expectation          Variance 
+     0.4863270173      1.0000000000      0.0006319608 
+
+
+
+
+
+
+sociademographic——income——Household Income; Mean Modelled Household income (?; 2012/13
+
+sociademographic——Employment——Out-of-Work Families; Rates children (0-18) living in Out-of-work Benefit Claimant Households; 2011
+
+sociademographic——education——Qualifications; Qualifications and Students - 2011 Census; % No qualifications
+
+sociademographic——poverty——Children in Poverty; % of children aged under 16 in poverty; 2011
+
+sociademographic——car——Car access; Cars per household - Census 2011; 
+
+physical activity——green access——Access to green space and nature; % homes with access to:; Local, Small or Pocket Park
+
+physical activity——travel bicycle——Travel to work by bicycle; 2011 Census; % travel by bicycle
